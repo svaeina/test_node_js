@@ -1,0 +1,21 @@
+{
+  "name": "Node_js_test",
+  "version": "0.0.0",
+  "description": "Test node.js project",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Sharna Bregman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.4.4",
+    "logfmt": "^1.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
